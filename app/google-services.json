@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91882451590",
+    "project_id": "searchprb-ef6be",
+    "storage_bucket": "searchprb-ef6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91882451590:android:2aae4af54f59347d445707",
+        "android_client_info": {
+          "package_name": "com.elitechinc.searchprb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91882451590-tpuo0osmegu8ba969724d67dountl6r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAniCT7bGcUI-MsbHuzp1yZHvj9jJOEh2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91882451590-tpuo0osmegu8ba969724d67dountl6r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
